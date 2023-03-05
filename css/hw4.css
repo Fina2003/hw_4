@@ -1,0 +1,42 @@
+body{
+    background-image: url("../img/фон.jpg");
+    background-repeat: repeat-y;
+    background-size: 100%;
+    padding: 80px;
+    background-attachment: local;
+}
+
+.zagolovok{
+    font-size: 25px;
+    text-align: center;
+    background-color: rgba(255, 255, 255, 0.6);
+}
+
+img{
+    width: 750px;
+    margin: 10px;
+}
+
+p{
+    margin: 15px;
+}
+
+.fl{
+    background-color: rgba(255, 255, 255, 0.6);
+    text-align: left;
+    float: left;
+    font-size: 30px;
+    margin: 20px 30px 10px 10px;
+}
+
+div{
+    max-width: 2200px;
+    min-width: 2000px;
+    margin: auto;
+    margin-bottom: 20px;
+}
+.logo{
+    width: 100px;
+    display: block;
+    margin: 0 auto;
+}
